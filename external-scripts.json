@@ -9,5 +9,7 @@
   "hubot-redis-brain",
   "hubot-rules",
   "hubot-shipit",
-  "hubot-twitter-mention"
+  "hubot-twitter-mention",
+  "hubot-invite-slack",
+  "hubot-auth"
 ]
